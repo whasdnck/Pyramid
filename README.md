@@ -12,6 +12,8 @@
 ### n=3 -> i=1(i<=n) -> 공백 i=1(i<=n-i) -> NO 별 j=1(j<=(i-1)x2+1
 ### 별 출력  n= 전체단(사용자입력), i= 현재 출력중인 단,,
 
+
+# Pyramid code
 package sungil21102algo;
 
 public class Pyramid {
