@@ -34,4 +34,6 @@ public class Pyramid {
 			System.out.println();
 		}
 	}
+
+
 }
